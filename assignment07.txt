@@ -1,0 +1,25 @@
+https://github.com/senaldm/Eventor
+
+
+//code for Q2
+
+D:\Assignment2>git clone https://github.com/senaldm/Assignment2.git
+Cloning into 'Assignment2'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+
+D:\Assignment2>cd Assignment2
+
+D:\Assignment2\Assignment2>git add assignment07
+fatal: pathspec 'assignment07' did not match any files
+
+D:\Assignment2\Assignment2>git add assignment07.txt
+
+D:\Assignment2\Assignment2>git branch temp
+
+D:\Assignment2\Assignment2>git checkout temp
+Switched to branch 'temp'
+A       assignment07.txt
